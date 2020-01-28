@@ -10,7 +10,7 @@ permalink: /openings
 
 We are always looking for new group members with passion, talent, and grit! We do research on Real-Time and Embedded Systems, FOG computing, autonomous vehicles, and many other exciting topics.
 
-### Applications for PhD and Postdoc positions
+### Ph.D. and Master’s Positions
 We often have positions for graduate students (MASc or PhD). Interested students email your resume and transcripts in pdf to AKRAMUL AZIM, PHD, PENG (akramul.azim@uoit.ca).
 
 ### Undergraduate Student Positions

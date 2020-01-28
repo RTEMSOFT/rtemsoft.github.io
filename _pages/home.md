@@ -1,7 +1,7 @@
 ---
 title: "RTEMSOFT - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "RTEMSOFT Lab @ OTU."
 sitemap: false
 permalink: /
 ---

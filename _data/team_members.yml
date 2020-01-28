@@ -25,6 +25,44 @@
   number_educ: 1
   education1: Co-Supervised by Dr. Mahmoud
 
+- name: Bradley Wood
+  photo: avatar.png
+  info: MASc Student
+  email: bradley.wood@ontariotechu.net
+  number_educ: 1
+  education1: BEng in Software Engineering, 2019
+
+- name: Viraj Patel
+  photo: avatar.png
+  info: MASc Student
+  email: viraj.patel@uoit.ca
+  number_educ: 1
+  education1: BEng in Software Engineering, 2019
+
+- name: Deepak Kumar Saggu
+  photo: female.png
+  info: MASc Student
+  email: deepak.saggu@ontariotechu.net
+  number_educ: 0
+
+- name: David Lennick
+  photo: avatar.png
+  info: MSc Student
+  email: david.lennick@ontariotechu.net
+  number_educ: 0
+
+- name: Suzanne Elashri
+  photo: female.png
+  info: MASc Student
+  email: suzanne.elashri@ontariotechu.net
+  number_educ: 0
+
+- name: Amalnnath Parameswaran
+  photo: avatar.png
+  info: Research Assistant
+  email: amalnnath.parameswaran@uoit.net
+  number_educ: 0
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="/openings">openings</a> for more info.
